@@ -3,7 +3,7 @@
 === Get Search Application
 
 preview::[]
-
+مطابقة مصادر متعددة مع حرف بدل (*).
 ++++
 <titleabbrev>Get Search Application</titleabbrev>
 ++++
